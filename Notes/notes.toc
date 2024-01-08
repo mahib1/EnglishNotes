@@ -4,5 +4,5 @@
 \contentsline {section}{\numberline {2.1}Abbreviations}{5}{section.2.1}%
 \contentsline {section}{\numberline {2.2}F.R.I.E.N.D.S?}{5}{section.2.2}%
 \contentsline {section}{\numberline {2.3}Aftermath}{5}{section.2.3}%
-\contentsline {chapter}{\numberline {3}Day 3 - 08/1/2023}{6}{chapter.3}%
+\contentsline {chapter}{\numberline {3}Day 3 - 08/01/2023}{6}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Changing of Sentences}{6}{section.3.1}%
