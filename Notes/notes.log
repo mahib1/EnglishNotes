@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.5)  11 JAN 2024 12:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.5)  12 JAN 2024 11:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -753,12 +753,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 222--226
 ]
 Chapter 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 237--238
+Underfull \hbox (badness 10000) in paragraph at lines 236--237
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 239--242
+Underfull \hbox (badness 10000) in paragraph at lines 238--241
 
  []
 
@@ -767,39 +767,54 @@ Underfull \hbox (badness 10000) in paragraph at lines 239--242
 ]
 Chapter 5.
 
-Underfull \hbox (badness 10000) in paragraph at lines 258--259
+Underfull \hbox (badness 10000) in paragraph at lines 257--258
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 258--259
+Underfull \hbox (badness 10000) in paragraph at lines 257--258
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 260--261
+Underfull \hbox (badness 10000) in paragraph at lines 259--260
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 262--263
+Underfull \hbox (badness 10000) in paragraph at lines 261--262
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 262--263
+Underfull \hbox (badness 10000) in paragraph at lines 261--262
 
  []
 
 [8
 
+]
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
+
+ []
+
+[9]
+Chapter 6.
+[10
+
 ] (./notes.aux)
-Package rerunfilecheck Info: File `notes.out' has not changed.
-(rerunfilecheck)             Checksum: 494ABB3BEF5C7299C1E4DECDD175EB03;1518.
+
+Package rerunfilecheck Warning: File `notes.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `notes.out':
+(rerunfilecheck)             Before: 0F5824FC9099DD6F099F2978BD5B7125;1568
+(rerunfilecheck)             After:  F69D1F56573B2AC6992772C816DDD8DD;1661.
  ) 
 Here is how much of TeX's memory you used:
- 9400 strings out of 476025
- 147967 string characters out of 5790017
+ 9423 strings out of 476025
+ 148122 string characters out of 5790017
  1858388 words of memory out of 5000000
  29727 multiletter control sequences out of 15000+600000
  518910 words of font info for 55 fonts, out of 8000000 for 9000
@@ -810,10 +825,10 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
 usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
 r/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on notes.pdf (9 pages, 93777 bytes).
+Output written on notes.pdf (11 pages, 95462 bytes).
 PDF statistics:
- 147 PDF objects out of 1000 (max. 8388607)
- 124 compressed objects within 2 object streams
- 24 named destinations out of 1000 (max. 500000)
+ 183 PDF objects out of 1000 (max. 8388607)
+ 158 compressed objects within 2 object streams
+ 47 named destinations out of 1000 (max. 500000)
  97 words of extra memory for PDF output out of 10000 (max. 10000000)
 
