@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.5)  29 JAN 2024 10:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.5)  1 FEB 2024 08:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -784,7 +784,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 261--262
 [8
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 300--301
+Underfull \hbox (badness 10000) in paragraph at lines 300--302
 
  []
 
@@ -830,22 +830,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 306--316
 ]
 Chapter 7.
 
-Underfull \hbox (badness 10000) in paragraph at lines 321--322
+Underfull \hbox (badness 10000) in paragraph at lines 319--320
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 321--322
+Underfull \hbox (badness 10000) in paragraph at lines 319--320
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 323--324
+Underfull \hbox (badness 10000) in paragraph at lines 321--323
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 323--324
+Underfull \hbox (badness 10000) in paragraph at lines 321--323
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--323
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
 
  []
 
@@ -853,6 +868,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 323--324
 
 ]
 Chapter 8.
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--344
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--344
+
+ []
+
 [12
 
 ]
@@ -862,37 +887,46 @@ Chapter 9.
 ]
 Chapter 10.
 
-Underfull \hbox (badness 10000) in paragraph at lines 368--370
+Underfull \hbox (badness 10000) in paragraph at lines 352--354
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 368--370
+Underfull \hbox (badness 10000) in paragraph at lines 365--371
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 368--370
+Underfull \hbox (badness 10000) in paragraph at lines 365--371
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 365--371
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 365--371
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 365--371
 
  []
 
 [14
 
 ] (./notes.aux)
-
-Package rerunfilecheck Warning: File `notes.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `notes.out':
-(rerunfilecheck)             Before: 952D13A3C80D9960A3FFEEF7655C44A5;2912
-(rerunfilecheck)             After:  8B5488EE8D01634779CE1E7193B294CE;3070.
+Package rerunfilecheck Info: File `notes.out' has not changed.
+(rerunfilecheck)             Checksum: 6642BE77C03732B58D5545B9C1830E14;3065.
  ) 
 Here is how much of TeX's memory you used:
- 9456 strings out of 476025
- 148526 string characters out of 5790017
+ 9455 strings out of 476025
+ 148503 string characters out of 5790017
  1858388 words of memory out of 5000000
- 29742 multiletter control sequences out of 15000+600000
+ 29741 multiletter control sequences out of 15000+600000
  518910 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,76p,493b,452s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -901,10 +935,10 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
 usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
 r/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on notes.pdf (15 pages, 103372 bytes).
+Output written on notes.pdf (15 pages, 104490 bytes).
 PDF statistics:
- 262 PDF objects out of 1000 (max. 8388607)
- 232 compressed objects within 3 object streams
+ 266 PDF objects out of 1000 (max. 8388607)
+ 236 compressed objects within 3 object streams
  65 named destinations out of 1000 (max. 500000)
- 169 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 177 words of extra memory for PDF output out of 10000 (max. 10000000)
 
