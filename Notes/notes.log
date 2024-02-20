@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.5)  8 FEB 2024 12:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.5)  12 FEB 2024 10:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1009,15 +1009,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 439--443
 
 [18
 
+]
+Chapter 15.
+
+Underfull \hbox (badness 10000) in paragraph at lines 447--449
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 447--449
+
+ []
+
+[19
+
 ] (./notes.aux)
 Package rerunfilecheck Info: File `notes.out' has not changed.
-(rerunfilecheck)             Checksum: 4917D5C6FEC70A07322A43F27014BEB6;4335.
+(rerunfilecheck)             Checksum: 19FB6BF2E83A0FCDB5BFE8590A8D9433;4657.
  ) 
 Here is how much of TeX's memory you used:
- 9478 strings out of 476025
- 148794 string characters out of 5790017
- 1860388 words of memory out of 5000000
- 29752 multiletter control sequences out of 15000+600000
+ 9484 strings out of 476025
+ 148874 string characters out of 5790017
+ 1861388 words of memory out of 5000000
+ 29755 multiletter control sequences out of 15000+600000
  518910 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,76p,493b,452s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1027,10 +1041,10 @@ Here is how much of TeX's memory you used:
 /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
 sr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
 /local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on notes.pdf (19 pages, 118965 bytes).
+Output written on notes.pdf (20 pages, 119923 bytes).
 PDF statistics:
- 340 PDF objects out of 1000 (max. 8388607)
- 303 compressed objects within 4 object streams
- 77 named destinations out of 1000 (max. 500000)
- 241 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 355 PDF objects out of 1000 (max. 8388607)
+ 317 compressed objects within 4 object streams
+ 80 named destinations out of 1000 (max. 500000)
+ 257 words of extra memory for PDF output out of 10000 (max. 10000000)
 
